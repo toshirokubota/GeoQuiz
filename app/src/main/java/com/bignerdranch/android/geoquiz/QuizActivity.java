@@ -13,6 +13,9 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
+
+//I branch out to Challenge_ch06!
+
 public class QuizActivity extends Activity {
 
     private static final String TAG = "QuizActivity";

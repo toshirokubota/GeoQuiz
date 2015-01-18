@@ -8,6 +8,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+//I branch out to Challenge_ch06!
+
 public class CheatActivity extends Activity {
 
     private static final String TAG = "CheatActivity";
