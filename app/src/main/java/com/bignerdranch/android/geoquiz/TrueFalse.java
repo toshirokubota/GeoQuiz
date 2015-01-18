@@ -1,5 +1,7 @@
 package com.bignerdranch.android.geoquiz;
 
+//I branch out to Challenge_ch06!
+
 public class TrueFalse {
     private int mQuestion;
     // this variable will hold a resource ID for a string
